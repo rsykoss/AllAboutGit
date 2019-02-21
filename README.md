@@ -24,9 +24,9 @@ Branches are basically like different versions of a file. At first, there is a m
 When you branch from a branch, it means you are making the copy of the branch at that point in time. 
 
 ##### 3. Commit, Push, Pull, Fetch, (Fork)
-*Commit* - Commits are changes that you want to record in a repository. Think of it as you are saving your changes to your laptop. This only happens locally so the rest of the people who may be working on the same repo wont see it.
-*Push* - After commits you can push which is uploading your "saved" copy from the commits you have made to online repo so that other people can also see the changes you have made. Pull may need to be done first before push if there are other people working on the same repo.
-*Pull* - Merge your local repo with any changes that has been done to the repo by other people.
-*Fetch* - Fetch is similar to pull except that it does not merge for you. This means that you can see what other people have pushed but it will not change your own.
+**Commit** - Commits are changes that you want to record in a repository. Think of it as you are saving your changes to your laptop. This only happens locally so the rest of the people who may be working on the same repo wont see it.  
+**Push** - After commits you can push which is uploading your "saved" copy from the commits you have made to online repo so that other people can also see the changes you have made. Pull may need to be done first before push if there are other people working on the same repo.  
+**Pull** - Merge your local repo with any changes that has been done to the repo by other people.  
+**Fetch** - Fetch is similar to pull except that it does not merge for you. This means that you can see what other people have pushed but it will not change your own.  
 
 http://rogerdudler.github.io/git-guide/
